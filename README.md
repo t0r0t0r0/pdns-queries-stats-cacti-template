@@ -33,5 +33,5 @@ A:2103 NS:60 TYPE3:1 TYPE4:1 CNAME:6 SOA:3093 TYPE7:1 TYPE8:1 TYPE9:1 TYPE10:1 T
 <br>
 
 ## Notes
-
+rec_control get-qtypelist の出力結果からクエリータイプ別の結果をグラフ化
 
