@@ -19,7 +19,7 @@ Package:<br>
 $ cat snmpd.conf.add >> /etc/snmp/snmpd.conf<br>
 <br>
 -- check example<br>
-$ cat /etc/snmp/snmpd.conf|grep dnsdist<br>
+$ cat /etc/snmp/snmpd.conf|grep pdns-rec-queries<br>
 extend .1.3.6.1.4.1.18689.0.3 pdns-rec-queries /usr/local/bin/pdns-query-stats<br>
 <br>
 -- copy pdns-query-stats<br>
